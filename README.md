@@ -1,7 +1,7 @@
 Terms of Service for MusicBot
 
 1. Introduction
-Welcome to MusicBot! By using MusicBot on Discord, you agree to comply with and be bound by the following Terms of Service ("Terms"). These Terms govern your access and use of MusicBot. If you do not agree to these Terms, you may not use MusicBot.
+Welcome to MusicBot! By using MusicBot on Discord, you agree to comply with and be bound by the following Terms of Service. These Terms govern your access and use of MusicBot. If you do not agree to these Terms, you may not use MusicBot.
 
 2. Description of Service
 MusicBot is a Discord bot designed to provide music playback and related features for users in Discord servers. MusicBot operates as-is and may be updated, modified, or discontinued at any time without prior notice.
